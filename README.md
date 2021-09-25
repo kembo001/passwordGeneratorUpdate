@@ -1,2 +1,2 @@
-# passwordGeneratorUpdate
-Updated password generator
+# password-generator
+Creating a password generator 
